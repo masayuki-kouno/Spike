@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ISampleImpl.h"
+#include <string>
 #include <memory>
 
 namespace Sample {
